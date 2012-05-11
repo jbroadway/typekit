@@ -1,0 +1,20 @@
+{
+    "name": "elefant/app-typekit",
+    "type": "elefant-app",
+    "description": "TypeKit app for the Elefant CMS",
+    "keywords": ["typekit", "font", "fonts", "elefant", "cms", "app"],
+    "license": "MIT",
+	"authors": [
+		{
+			"name": "Johnny Broadway",
+			"email": "johnny@johnnybroadway.com",
+			"homepage": "http://www.johnnybroadway.com/"
+		}
+	],
+    "repositories": [
+        {"type": "git", "url": "http://github.com/jbroadway/elefant_installer"}
+    ],
+    "require": {
+        "elefant/app-installer": "*"
+    }
+}
